@@ -1,1 +1,1 @@
-![](img/archi)
+![](img/archi.png)
